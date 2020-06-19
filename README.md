@@ -15,6 +15,7 @@ Implementation
 Recorder video clip will be converted into image frames using open CV and will be shared to the Azure Custom vision Api to detect the Potholes. The Images with potholes prediction percentage of 50 or more will be considered and the corresponding geo-location of the image will be send to the Azure functions api. The azure function api will take care of persisting the received information into the azure sql server database. The admin can extract the data and a visualize the data with Azure Power BI reports for analytics and can group the data by Date, Location, Seviority, Most Used etc..
 
 
+The below link provides Data Set Images considered to obtain the results in resultsfolder
 
-
+https://drive.google.com/file/d/1pUcpNrRm3fZrwmGfH0aGm_WEA5Pl9sZ5/view?usp=sharing
 
