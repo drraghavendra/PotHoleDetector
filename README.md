@@ -1,5 +1,6 @@
 # PotHoleDetector
 
+The Objective of the project is to save lives of people by trying to minimize accidents on the road 
 Potholes are serious concern issue in our country. People find it difficult to avoid potholes while driving. We are addressing this problem by building a pothole detector system and helping the drivers know about the road conditions by alerting them through maps.
 
 We have built an android application which uses the camera and then calculates what percentage it is a pothole and pins the location to the map.
